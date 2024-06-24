@@ -29,6 +29,7 @@ Inspirational Reads: Tell us about books that touched your heart or made you see
 3. Your Forma (Light Novel)
 4. medium - Sako Aizawa
 5. The Alchemist - Paulo Coelho
+6. Er ist wieder da
 ## Inspirational Reads
 1. Last Lecture - Randy Pausch
 2. The Sign of Four - Arthur Ignatius Conan Doyle
