@@ -39,6 +39,7 @@ Inspirational Reads: Tell us about books that touched your heart or made you see
 6. Hunter×Hunter
 7. Game of Thrones
 8. Head First Design Patterns 2nd Edition
+9. Pattern Recognition and Machine Learning
    
 
 
