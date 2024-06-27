@@ -30,6 +30,7 @@ Inspirational Reads: Tell us about books that touched your heart or made you see
 4. medium - Sako Aizawa
 5. The Alchemist - Paulo Coelho
 6. Er ist wieder da
+7. Harry Potter J. K. Rowling
 ## Inspirational Reads
 1. Last Lecture - Randy Pausch
 2. The Sign of Four - Arthur Ignatius Conan Doyle
@@ -40,6 +41,7 @@ Inspirational Reads: Tell us about books that touched your heart or made you see
 7. Game of Thrones
 8. Head First Design Patterns 2nd Edition
 9. Pattern Recognition and Machine Learning
+10. Who Moved My Cheese
    
 
 
