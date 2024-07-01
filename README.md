@@ -43,6 +43,7 @@ Goal - I want contributors to help me list your MBTI type.
 | ENFJ  | ()   |
 | ISTP   | Watching anime   |
 | ESTJ   | ()   |
+| INFP   | Playing Game   |
 | ISTP   | customizing keyboard   |
 | ENFJ | (video game)   |
 | 10   | ()   |
