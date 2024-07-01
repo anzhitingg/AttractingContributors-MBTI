@@ -46,6 +46,6 @@ Goal - I want contributors to help me list your MBTI type.
 | INFP   | Playing Game   |
 | ISTP   | customizing keyboard   |
 | ENFJ | (video game)   |
-| 10   | ()   |
-| 11   | ()   |
-| 12   | ()   |
+| 13   | ()   |
+| 14   | ()   |
+| 15   | ()   |
