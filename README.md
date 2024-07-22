@@ -34,7 +34,7 @@ Thank you very much❤️
 
 | MBTI | Hobby |
 |:-------:|:-------:|
-| ENTJ   | ikebana（flower arrangement）   |
+| ISFJ   | ikebana（flower arrangement）   |
 | INTJ   | ()   |
 | INFJ   | Reading  |
 | INFP   | ()   |
