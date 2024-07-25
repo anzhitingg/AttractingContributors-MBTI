@@ -49,3 +49,4 @@ Thank you very much❤️
 | 13   | ()   |
 | 14   | ()   |
 | 15   | ()   |
+| ENFJ  | ()   |
