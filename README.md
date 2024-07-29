@@ -46,7 +46,7 @@ Thank you very much❤️
 | INFP   | Playing Game   |
 | ISTP   | customizing keyboard   |
 | ENFJ | (video game)   |
-| 13   | ()   |
+| ENFJ  | ()   |
 | 14   | ()   |
 | 15   | ()   |
-| ENFJ  | ()   |
+
